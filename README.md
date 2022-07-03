@@ -15,5 +15,5 @@ NEXT_PUBLIC_USE_LOCAL_CLIENT=1
 
 A primeira variável (NEXT_PUBLIC_TINA_CLIENT_ID) pode ser encontrada ao logar no site oficial da tina [aqui](https://app.tina.io/signin). Feita a autenticação, basta criar um novo projeto e pegar o ID fornecido.
 
-Cloudinary é a plataforma para hospedar arquivos (imagem e vídeos)
+Cloudinary é a plataforma para hospedar arquivos (imagem e vídeos).
 Basta criar uma conta no [site](https://cloudinary.com/) deles e pegar as credenciais necessárias para colocar no .env.local.
